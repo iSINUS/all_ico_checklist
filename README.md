@@ -1,13 +1,20 @@
 
 #The All ICO Checklist
+
 ##Disclaimer
+
 This list was compiled based on different sources in open internet. If you find some information from your source I will be glad to add link and your license.
+
 ##Motivation
+
 There are a lot of different resources which describe different aspects of preparation and doing of ICO. But they are too verbose. We needed just aggregated information in form of check-list to be sure we are following to the best practices (not sure if they exist).
+
 ##Structure
+
 Information below should not be treated as standard or complete guide to ICO. It is knowledge base based on community experience.
 
 ###Deliverables
+
 After applying this list to your idea you could have:
 - **Answers** to the questions - it would help you better understand you needs and plan your activity;
 - **Position paper** structure and knowledge of required content. A Position paper is a clear 3-4 pages argument that you are trying to make that is supported by your technology proposal. Useful to present to your investors during pre-ICO stage;
@@ -22,6 +29,7 @@ After applying this list to your idea you could have:
 5. **Yellow paper** - answer and detailed technical description should be included into a Yellow paper.
 
 ##Checklist
+
 |Category|Question|Position paper|Whitepaper|Yellow paper|
 |---|---|:---:|:---:|:---:|
 |Generic|Is position paper ready?||||
