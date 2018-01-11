@@ -1,19 +1,19 @@
 
-#The All ICO Checklist
+# The All ICO Checklist
 
-##Disclaimer
+## Disclaimer
 
 This list was compiled based on different sources in open internet. If you find some information from your source I will be glad to add link and your license.
 
-##Motivation
+## Motivation
 
 There are a lot of different resources which describe different aspects of preparation and doing of ICO. But they are too verbose. We needed just aggregated information in form of check-list to be sure we are following to the best practices (not sure if they exist).
 
-##Structure
+## Structure
 
 Information below should not be treated as standard or complete guide to ICO. It is knowledge base based on community experience.
 
-###Deliverables
+### Deliverables
 
 After applying this list to your idea you could have:
 - **Answers** to the questions - it would help you better understand you needs and plan your activity;
@@ -21,14 +21,14 @@ After applying this list to your idea you could have:
 - **Whitepaper** structure and knowledge of required content. A Whitepaper details specifically how you propose your technology will actually work. It is absolutely necessary to have it before ICO;
 - **Yellow paper** structure and knowledge of required content. A Yellow paper, or a second “technical” white paper, that will take much of the first two papers and actually present in scientific detail the technology and the innovations that have created, or propose to create. In many cases the technology is tested and/or peer reviewed. It is desired to have it during ICO or after success ICO as first document exposed to investors.
 
-###Checklist columns
+### Checklist columns
 1. **Category** - group of questions. Could be used as article/sections in your document. It is not obligatory to use the order of articles;
 2. **Question** - you need to answer before or during pre-ICO, ICO and the next steps. Order of the questions is not so important (only if next question references to previous);
 3. **Position paper** - answer and high level description should be included into a Position paper;
 4. **Whitepaper**  - answer and description should be included into a Whitepaper;
 5. **Yellow paper** - answer and detailed technical description should be included into a Yellow paper.
 
-##Checklist
+## Checklist
 
 |Category|Question|Position paper|Whitepaper|Yellow paper|
 |---|---|:---:|:---:|:---:|
